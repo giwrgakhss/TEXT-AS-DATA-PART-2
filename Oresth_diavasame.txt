@@ -1,0 +1,9 @@
+Ousiastika ayto poy kanw einai droparw ta axreista collums
+meta ta fairnw ola se kanonikh morfh afairo noymera kai stop words enw ta exw taxinomhsei me xronologikh seira.
+sthn synexeia phra ena full aplo etoimo keyword list me lexeis pou exoun na kanoun me risk kai uncertainty kai meta
+ me regex kanw ena pattern gia na metraw poses fores emfanizontai se kathe keimeno.
+ meta ftiaxnw mia mikrh piknothta oysiastika pou deixnei poses lexeis tou lexikoy emfanizontai ana 1000 lexeis tou keimenou.
+meta ftiaxnw ena dataframe me tis mikres piknothtes kai ta xronika stigmia twn omlion kai meta ftiaxnw ena dataframe me to vix gia kathe mina.
+meta kanw merge ta 2 dataframe me vix kai piknothta se ena neo dataframe kai meta kanw ena plot gia na dw an yparxei kapoia sxesh metaksy twn 2 metavlhtwn.
+kapou se ola ayta louzw asxhma logika giati o tropos sysxetishs moy den einai arketa kalos.
+tsekare to kai let my now. se polla pragmata den ta katalavainw full full logo toy ta perase to llm kai kapou koyrastika.
